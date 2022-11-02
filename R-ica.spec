@@ -4,7 +4,7 @@
 #
 Name     : R-ica
 Version  : 1.0.3
-Release  : 44
+Release  : 45
 URL      : https://cran.r-project.org/src/contrib/ica_1.0-3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ica_1.0-3.tar.gz
 Summary  : Independent Component Analysis
